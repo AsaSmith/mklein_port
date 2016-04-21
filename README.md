@@ -13,3 +13,11 @@ This is a nursing portfolio site for Madeline Klein. It will include info releva
 [Sample Site](http://awattsnp.weebly.com/)
 [Better Sample](http://reneelatoures.myefolio.com/introduction)  
 [Healthcare SVG's](http://www.flaticon.com/free-icons/medical_224g)
+
+
+* Notes
+
+Carroll community college
+sykesville, md, 21784
+443 487 3970
+madelineklein542@msn.com
