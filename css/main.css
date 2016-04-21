@@ -20,17 +20,18 @@ body {
 h1, h2, h3 {
   font-family: "Lora", Arial, serif;
   font-weight: bold;
+  padding: .5em 0;
 }
 
 .main {
   background-color: whitesmoke;
   width: 75%;
-  margin: 0 auto;
-  height: 100%;
+  margin: 1em auto;
   text-align: center;
+  box-shadow: 0px 0px 5px 5px #808080;
 }
 
-a {
+nav a {
   text-decoration: none ;
   color: white;
   padding: 5px;
@@ -38,11 +39,16 @@ a {
   border-radius: 3px;
 }
 
+nav a:hover {
+  background-color: #B6CEDE;
+  color: #333;
+}
+
 img {
   width: 80%;
 }
 
-li {
+ nav li {
   list-style: none;
   padding: .15em;
   margin-bottom: .5em;
@@ -51,4 +57,8 @@ li {
 section {
   width: 90%;
   margin: 0 auto;
+}
+
+section li {
+  list-style: none;
 }
