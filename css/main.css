@@ -44,14 +44,14 @@ nav a:hover {
   color: #333;
 }
 
-img {
-  width: 80%;
+nav li {
+ list-style: none;
+ padding: .15em;
+ margin-bottom: .5em;
 }
 
- nav li {
-  list-style: none;
-  padding: .15em;
-  margin-bottom: .5em;
+img {
+  width: 80%;
 }
 
 section {
@@ -61,4 +61,18 @@ section {
 
 section li {
   list-style: none;
+}
+
+@media (min-width: 32em){
+
+  nav li {
+   list-style: none;
+   padding: .15em;
+   margin-bottom: .5em;
+   display: inline;
+  }
+
+  nav ul {
+    margin: 1em 0;
+  }
 }
