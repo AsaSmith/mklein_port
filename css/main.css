@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Slab:400,700);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #CCC5B6;
+  font: normal 100%/150% "Josefin Sans", sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: "Josefin Slab", Arial, serif;
+  font-weight: bold;
+}
+
+.main {
+  background-color: whitesmoke;
+  width: 75%;
+  margin: 0 auto;
+  height: 100%;
+  text-align: center;
+}
