@@ -130,4 +130,26 @@ header {
      clear: both;
      height: 0;
      }
+
+  .float-left {
+    float: left;
+  }
+
+  .float-right {
+    float: right;
+  }
+
+  .clear {
+    clear: left;
+  }
+
+  #resume {
+    width: 90%;
+    background-color: whitesmoke;
+  }
+
+  #wrapper {
+    margin: 1em 2em;
+  }
+
 }
