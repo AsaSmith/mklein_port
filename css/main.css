@@ -109,6 +109,11 @@ section {
     padding-top: 1em;
   }
 
+  .active a {
+    background-color: #B6CEDE;
+    color: #333;
+  }
+
   .col-1-3 {
     width: 35%;
     float:left;
