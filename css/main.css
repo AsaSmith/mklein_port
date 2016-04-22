@@ -148,6 +148,10 @@ section {
     background-color: whitesmoke;
   }
 
+  .resume header nav ul {
+    text-align: center;
+  }
+
   #wrapper {
     margin: 1em 2em;
   }
