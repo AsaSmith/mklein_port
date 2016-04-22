@@ -56,11 +56,11 @@ section {
   margin: 0 auto;
 }
 
-section li {
+.main section li {
   list-style: none;
 }
 
-header {
+#masthead {
   background: linear-gradient(45deg, #B6CEDE, #81838C);
 }
 
