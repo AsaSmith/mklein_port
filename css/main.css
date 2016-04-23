@@ -16,6 +16,11 @@ a {
   color: inherit;
 }
 
+a[href="mailto:madelineklein542"]:hover {
+  text-decoration: underline;
+  color: #B6CEDE;
+}
+
 body {
   background-color: #CCC5B6;
   font: normal 100%/150% "Source Sans Pro", sans-serif;
