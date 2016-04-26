@@ -33,6 +33,12 @@ h1, h2, h3 {
   padding: .5em 0;
 }
 
+footer {
+  height: 2em;
+  text-align: center;
+  background-color:
+}
+
 nav a {
   text-decoration: none ;
   color: white;
@@ -52,7 +58,7 @@ nav li {
  margin-bottom: .5em;
 }
 
-img {
+#profile {
   width: 80%;
 }
 
@@ -95,6 +101,44 @@ section {
   #banner h3 {
     padding: .5em 0;
     font-weight: normal;
+  }
+
+  #health-fair {
+    text-align: center;
+  }
+
+  #health-fair img{
+    width: 90%;
+    margin: 3em auto;
+  }
+
+  #health-fair p {
+    line-height: 2em;
+  }
+
+  #symposium {
+    float: left;
+    margin: 2em 0 0 4em;
+  }
+
+  #symp-content {
+    float: right;
+    line-height: 4em;
+    margin: 2em 4em 0 0;
+  }
+
+  #vision p {
+    float: left;
+    width: 50%;
+    clear: left;
+    line-height: 3.5em;
+    margin-top: 2em;
+  }
+
+  #vision img {
+    float: right;
+    width: 40%;
+    margin-top: 2em;
   }
 
   header {
@@ -177,6 +221,10 @@ section {
 
   #employment {
     margin-bottom: 2em;
+  }
+
+  #exp header nav ul {
+    text-align: center;
   }
 
   #experience {
