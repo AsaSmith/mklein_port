@@ -127,6 +127,11 @@ section {
     padding: 2em 0;
   }
 
+  #cert nav {
+    text-align: center;
+    padding-top: 3em;
+  }
+
   #clin-exp {
     border-bottom: 1px black solid;
     margin-bottom: 2em;
