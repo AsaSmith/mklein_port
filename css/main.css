@@ -338,6 +338,14 @@ section {
     clear: left;
   }
 
+  .health-stream {
+    text-align: center;
+  }
+
+  .health-stream img {
+    width: 80%;
+    padding-top: 4em;
+  }
 
   .resume header {
     text-align: center;
