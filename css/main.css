@@ -39,6 +39,10 @@ footer {
   background-color:
 }
 
+footer p {
+  disp: inline;
+}
+
 nav a {
   text-decoration: none ;
   color: white;
